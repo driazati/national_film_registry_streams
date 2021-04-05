@@ -1,5 +1,3 @@
-file name data.json
-file name wiki.json
 # Stream the National Film Registry
 
 This table shows streaming providers that show each of the movies from the Library of Congress' [National Film Registry](https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/).
