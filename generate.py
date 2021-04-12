@@ -81,6 +81,8 @@ def get_movie(name, release_year):
     if key not in alldata:
         logging.info(f"Fetching {name}")
         alldata[key] = jw.search_for_item(name)
+    else:
+        logging.info(f"Using cached {name}")
     results = alldata[key]
 
     if release_year is not None and release_year.isnumeric():
@@ -216,4 +218,3 @@ for line in f:
         name = line[0]
     if line != "":
         print_movie(name, release_year)
-    line = f.readline()
