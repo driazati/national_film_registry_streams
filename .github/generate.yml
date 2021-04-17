@@ -1,0 +1,10 @@
+name: Re-generate list
+on:
+  - push
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hi
+        run: |
+          echo hi
