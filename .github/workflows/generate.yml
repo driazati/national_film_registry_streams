@@ -16,12 +16,7 @@ jobs:
           pip install -r requirements.txt
       - name: Generate
         run: |
-          echo wow >> README.md
-      - name: status
-        run: |
-          pwd
-          ls
-          git status
+          make all
       - name: run test push
         run: |
           git config --global user.name 'driazati'
