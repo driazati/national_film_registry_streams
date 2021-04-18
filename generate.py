@@ -1,3 +1,4 @@
+import concurrent.futures
 from pickledict import jsondict
 from justwatch import JustWatch
 import wikipedia
@@ -10,6 +11,7 @@ import logging
 import pprint
 import re
 import pickle
+import concurrent
 from urllib.parse import urlparse
 
 
@@ -169,17 +171,17 @@ def get_wiki_url(title, year):
     return wiki_url
 
 
-def print_movie(name, release_year):
+def get_movie_row(args):
     """
     Look up a movie by name + release_year, find if it's available to stream anywhere,
     and then print it as a markdown table row
     """
+    index, name, release_year = args
     result = get_movie(name, release_year)
 
     if result is None:
         logging.info(f"Unable to find {name} {release_year}")
-        print(f"| {name} | {release_year} | No data found |")
-        return
+        return index, f"| {name} | {release_year} | No data found |"
 
     title = result['title']
     release_year = result['original_release_year']
@@ -189,7 +191,7 @@ def print_movie(name, release_year):
         title_text = f"[{title}]({wiki_url})"
     streams = find_streams(result)
 
-    print(f"| {title_text} | {release_year} | {streams_to_text(streams)} |")
+    return index, f"| {title_text} | {release_year} | {streams_to_text(streams)} |"
 
 
 print(textwrap.dedent("""
@@ -207,7 +209,9 @@ if args.source_tsv_file is None or args.source_tsv_file == "-":
 else:
     f = open(args.source_tsv_file, "r")
 
-for line in f:
+args = []
+
+for i, line in enumerate(f):
     release_year = None
     line = line.strip()
     line = line.split("\t")
@@ -217,4 +221,11 @@ for line in f:
     else:
         name = line[0]
     if line != "":
-        print_movie(name, release_year)
+        args.append([i, name, release_year])
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+    processes = pool.map(get_movie_row, args)
+    results = [x for x in processes]
+    results = sorted(results, key=lambda x: x[0])
+    results = [r[1] for r in results]
+    print("\n".join(results))
