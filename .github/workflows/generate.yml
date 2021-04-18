@@ -1,6 +1,11 @@
 name: Re-generate list
 on:
-  - push
+  push:
+    branches:
+      - master
+  schedule:
+    # Every monday
+    - cron: "0 0 * * 1"
 jobs:
   generate:
     runs-on: ubuntu-latest
