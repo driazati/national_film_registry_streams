@@ -11,17 +11,17 @@ This table shows streaming providers that show each of the movies from the Libra
 | [12 Angry Men](https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)) | 1957 | Not available to stream |
 | 13 Lakes | 2004 | No data found |
 | [20,000 Leagues Under the Sea](https://en.wikipedia.org/wiki/Adaptations_of_Twenty_Thousand_Leagues_Under_the_Sea) | 1916 | Not available anywhere |
-| [42nd Street](https://en.wikipedia.org/wiki/42nd_Street_(Manhattan)) | 1933 | [directv](https://www.directv.com/movies/42nd-Street-TmtEaXQ2UzNwWUN5SkdQODAwVWF4UT09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/616) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjiQGwgNPMPDwwEAAAIR) |
+| [42nd Street](https://en.wikipedia.org/wiki/42nd_Street_(musical)) | 1933 | [directv](https://www.directv.com/movies/42nd-Street-TmtEaXQ2UzNwWUN5SkdQODAwVWF4UT09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/616) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjiQGwgNPMPDwwEAAAIR) |
 | [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(soundtrack)) | 1968 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6HAogSI-njwEAAASb) |
 | [Abbott and Costello Meet Frankenstein](https://en.wikipedia.org/wiki/Lou_Costello) | 1948 | Not available to stream |
 | [Ace in the Hole](https://en.wikipedia.org/wiki/Ace_in_the_Hole_Band) | 1951 | [amazon](https://watch.amazon.com/detail?asin=B08WCBF8GC&camp=1789&creativeASIN=B08WCBF8GC&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [crackle](https://www.crackle.com/7566) <br/> [flixfling](https://www.flixfling.com/justwatch/14719) <br/> [indieflix](https://watch.indieflix.com/movie/49-xzjzrdlcpj93-ace-in-the-hole) |
-| [Adam's Rib](https://en.wikipedia.org/wiki/List_of_American_films_of_1949) | 1949 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6Gwp4WY7CZgEAAAVG) |
+| [Adam's Rib](https://en.wikipedia.org/wiki/McRib) | 1949 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6Gwp4WY7CZgEAAAVG) |
 | [The Adventures of Robin Hood](https://en.wikipedia.org/wiki/List_of_films_and_television_series_featuring_Robin_Hood) | 1938 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6Hg8UKo7CZgEAAAXd) |
 | The African Queen | 1952 | [amazon](https://watch.amazon.com/detail?asin=B07RHB3BWT&camp=1789&creativeASIN=B07RHB3BWT&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [hoopladigital](https://www.hoopladigital.com/title/10986451) <br/> [flixfling](https://www.flixfling.com/justwatch/10839) <br/> [directv](https://www.directv.com/movies/The-African-Queen-OHBwVUpjRy91bDVtazdnUUZpclFpZz09) |
 | [Airplane!](https://en.wikipedia.org/wiki/Robert_Hays) | 1980 | [starz](https://www.starz.com/us/en/movies/28623) <br/> [amazon](https://watch.amazon.com/detail?asin=B00C3LDMDG&camp=1789&creativeASIN=B00C3LDMDG&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000026980000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/Airplane-Vk5KUklxUDNiV2s2YUN6ek8zWWVaZz09) |
 | Alien | 1979 | Not available to stream |
 | [All About Eve](https://en.wikipedia.org/wiki/All_About_Eve) | 1950 | Not available to stream |
-| [All My Babies ...A Midwife's Own Story](https://en.wikipedia.org/wiki/Son_(novel)) | 1953 | Not available anywhere |
+| [All My Babies ...A Midwife's Own Story](https://en.wikipedia.org/wiki/George_C._Stoney) | 1953 | Not available anywhere |
 | [All Quiet on the Western Front](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)) | 1930 | Not available to stream |
 | [All That Heaven Allows](https://en.wikipedia.org/wiki/All_That_Heaven_Allows) | 1955 | Not available anywhere |
 | [All That Jazz](https://en.wikipedia.org/wiki/Stop_All_That_Jazz) | 1979 | Not available anywhere |
@@ -46,17 +46,17 @@ This table shows streaming providers that show each of the movies from the Libra
 | Baby Face | 1933 | [hoopladigital](https://www.hoopladigital.com/title/13922853) |
 | [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) | 1985 | [amazon](https://watch.amazon.com/detail?asin=B00BTMJTN2&camp=1789&creativeASIN=B00BTMJTN2&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000187370000%26o%3D0&irmp=1206980&irad=599309) <br/> [sling](https://watch.sling.com/browse/search?query=Back%20to%20the%20Future) <br/> [nbc](http://www.nbc.com/movies-on-usa/video/back-to-the-future/4236075) |
 | [The Bad and the Beautiful](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly) | 1952 | [criterionchannel](https://www.criterionchannel.com/the-bad-and-the-beautiful) |
-| [Bad Day at Black Rock](https://en.wikipedia.org/wiki/Bad_Brains_(album)) | 1955 | Not available to stream |
+| [Bad Day at Black Rock](https://en.wikipedia.org/wiki/Bob_Rock) | 1955 | Not available to stream |
 | [Badlands](https://en.wikipedia.org/wiki/Badlands_(film)) | 1973 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXyINuQuABJ28vgEAAAHy) |
-| [Ball of Fire](https://en.wikipedia.org/wiki/Lucille_Ball) | 1941 | [pluto](https://pluto.tv/on-demand/movies/ball-of-fire-1942-1-1) |
-| [Bambi](https://en.wikipedia.org/wiki/Bambi) | 1942 | [disneyplus](https://www.disneyplus.com/movies/bambi/2s64jMJasyNO) |
+| [Ball of Fire](https://en.wikipedia.org/wiki/Gallipoli_(1981_film)) | 1941 | [pluto](https://pluto.tv/on-demand/movies/ball-of-fire-1942-1-1) |
+| [Bambi](https://en.wikipedia.org/wiki/Bambi_Woods) | 1942 | [disneyplus](https://www.disneyplus.com/movies/bambi/2s64jMJasyNO) |
 | [The Band Wagon](https://en.wikipedia.org/wiki/Chuck_Wagon_(musician)) | 1953 | Not available to stream |
 | [The Bank Dick](https://en.wikipedia.org/wiki/Dick_Van_Dyke) | 1940 | Not available anywhere |
 | [The Bargain](https://en.wikipedia.org/wiki/Bargain_Booze) | 1914 | Not available anywhere |
 | [San Pietro](https://en.wikipedia.org/wiki/Inex-Adria_Aviopromet_Flight_1308) | 1945 | [amazon](https://watch.amazon.com/detail?asin=B01EZ930LM&camp=1789&creativeASIN=B01EZ930LM&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/battle-of-san-pietro) <br/> [tubitv](https://tubitv.com/movies/507439?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV005315600000%26o%3D0&irmp=1206980&irad=599309) <br/> [flixfling](https://www.flixfling.com/justwatch/11279) <br/> [directv](https://www.directv.com/movies/The-Battle-of-San-Pietro-WUh0VzFsZ21jR2tJZHV2UnZCNEJ6QT09) |
 | The Battle of the Century | 1927 | No data found |
 | The Beau Brummels | 1928 | No data found |
-| [Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)) | 1991 | [disneyplus](https://www.disneyplus.com/movies/beauty-and-the-beast/3oEh78YRc9VN) <br/> [directv](https://www.directv.com/movies/Beauty-and-the-Beast-OGpzejBLakdPaXAxRFdPSklZL1Iwdz09) |
+| [Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)) | 1991 | [disneyplus](https://www.disneyplus.com/movies/beauty-and-the-beast/3oEh78YRc9VN) <br/> [directv](https://www.directv.com/movies/Beauty-and-the-Beast-OGpzejBLakdPaXAxRFdPSklZL1Iwdz09) |
 | [Becky Sharp](https://en.wikipedia.org/wiki/Becky_Hammon) | 1935 | [amazon](https://watch.amazon.com/detail?asin=B00D8DDI32&camp=1789&creativeASIN=B00D8DDI32&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/becky-sharp) <br/> [tubitv](https://tubitv.com/movies/576634?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000045560000%26o%3D0&irmp=1206980&irad=599309) <br/> [flixfling](https://www.flixfling.com/justwatch/9141) <br/> [vudu](https://www.vudu.com/content/movies/details/Becky-Sharp/11495) <br/> [directv](https://www.directv.com/movies/Becky-Sharp-ZG1WS29Wb0VhK2pPclU2S3RPVy85Zz09) |
 | [Before Stonewall](https://en.wikipedia.org/wiki/Stonewall_(charity)) | 1984 | [fandor](https://www.fandor.com/films/before_stonewall) <br/> [amazon](https://watch.amazon.com/detail?asin=B00CPGIM6G&camp=1789&creativeASIN=B00CPGIM6G&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [hoopladigital](https://www.hoopladigital.com/title/11628398) <br/> [ovid](https://www.ovid.tv/videos/before-stonewall-restored-edition) |
 | [Being There](https://en.wikipedia.org/wiki/Duran_Duran_(1981_album)) | 1979 | [directv](https://www.directv.com/movies/Being-There-V0d0L0JOY2JjRnRaL3JGSU1XNG1Tdz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/3994) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GX9uU6g5B4ZN3GwEAAAGb) |
@@ -77,7 +77,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The Black Stallion](https://en.wikipedia.org/wiki/Black_Stallion_(truck)) | 1979 | [tubitv](https://tubitv.com/movies/312412?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hotstar](https://www.hotstar.com/us/1000109912) <br/> [pluto](https://pluto.tv/on-demand/movies/the-black-stallion-1979-1-1) |
 | [Blackboard Jungle](https://en.wikipedia.org/wiki/Glenn_Ford) | 1955 | Not available to stream |
 | [Blacksmith Scene](https://en.wikipedia.org/wiki/Blacksmith) | 1893 | Not available anywhere |
-| [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner) | 1982 | Not available to stream |
+| [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner_2049) | 1982 | Not available to stream |
 | [Blazing Saddles](https://en.wikipedia.org/wiki/Burton_Gilliam) | 1974 | [hoopladigital](https://www.hoopladigital.com/title/13529238) |
 | [Bless Their Little Hearts](https://en.wikipedia.org/wiki/List_of_Little_House_on_the_Prairie_episodes) | 1984 | [criterionchannel](https://www.criterionchannel.com/bless-their-little-hearts) |
 | [The Blood of Jesus](https://en.wikipedia.org/wiki/Jesus) | 1941 | [amazon](https://watch.amazon.com/detail?asin=B015QGDZ0Y&camp=1789&creativeASIN=B015QGDZ0Y&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/the-blood-of-jesus) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000442840000%26o%3D0&irmp=1206980&irad=599309) <br/> [criterionchannel](https://www.criterionchannel.com/the-blood-of-jesus) <br/> [pureflix](https://pureflix.com/videos/264460326715/watch) <br/> [flixfling](https://www.flixfling.com/justwatch/9504) <br/> [directv](https://www.directv.com/movies/Blood-of-Jesus-MGdMR24vdkp1Rm5tWDRNSk56c2dUQT09) <br/> [indieflix](https://watch.indieflix.com/movie/49-oeczvujjc0pk-the-blood-of-jesus) <br/> [classixapp](http://www.classixapp.com) |
@@ -105,7 +105,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | Bullitt | 1968 | [directv](https://www.directv.com/movies/Bullitt-Y0RWZU5vdE1COGVzSkh6MDBLWnhZZz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/21345) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GX9q8tQwrED8EowEAAAAG) |
 | [Butch Cassidy and the Sundance Kid](https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid) | 1969 | [hulu](https://www.hulu.com/watch/0d48ef39-6990-4663-a422-8d0a5e3d6893) <br/> [historyvault](https://www.historyvault.com/collections/asset-details/butch-cassidy-and-the-sundance-kid) |
 | [Cabaret](https://en.wikipedia.org/wiki/Cabaret_Voltaire_(band)) | 1972 | [hoopladigital](https://www.hoopladigital.com/title/10764788) |
-| [Cabin in the Sky](https://en.wikipedia.org/wiki/Cabin_in_the_Sky_(Curtis_Fuller_album)) | 1943 | [hoopladigital](https://www.hoopladigital.com/title/10764793) |
+| [Cabin in the Sky](https://en.wikipedia.org/wiki/Cabin_Fever_(2002_film)) | 1943 | [hoopladigital](https://www.hoopladigital.com/title/10764793) |
 | [The Cameraman](https://en.wikipedia.org/wiki/Kalyug_(1981_film)) | 1928 | Not available to stream |
 | [Carmen Jones](https://en.wikipedia.org/wiki/Carmen_Jones_(film)) | 1954 | Not available to stream |
 | [Casablanca](https://en.wikipedia.org/wiki/Casablanca) | 1942 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXdu2UQAP-qXCPQEAADfL) |
@@ -162,7 +162,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The Deer Hunter](https://en.wikipedia.org/wiki/The_Deer_Hunter) | 1978 | [peacocktv](https://www.peacocktv.com/watch/asset/movies/drama/the-deer-hunter/a0dc7511-170c-3088-971d-47bbce0a5189) |
 | [Deliverance](https://en.wikipedia.org/wiki/Deliverance_(rock_band)) | 1972 | Not available to stream |
 | Demolishing and Building Up the Star Theatre | 1901 | No data found |
-| [Destry Rides Again](https://en.wikipedia.org/wiki/Reiko_Sato) | 1939 | Not available to stream |
+| [Destry Rides Again](https://en.wikipedia.org/wiki/Irene_Hervey) | 1939 | Not available to stream |
 | [Detour](https://en.wikipedia.org/wiki/Film_noir) | 1945 | [amazon](https://watch.amazon.com/detail?asin=B00D5XKUZY&camp=1789&creativeASIN=B00D5XKUZY&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/detour) <br/> [tubitv](https://tubitv.com/movies/536463?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hoopladigital](https://www.hoopladigital.com/title/13430005) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000002140000%26o%3D0&irmp=1206980&irad=599309) <br/> [criterionchannel](https://www.criterionchannel.com/detour) <br/> [pureflix](https://pureflix.com/videos/264664614574/watch) <br/> [pluto](https://pluto.tv/on-demand/movies/detour-questar-1-1) <br/> [flixfling](https://www.flixfling.com/justwatch/9680) <br/> [vudu](https://www.vudu.com/content/movies/details/Detour/1187401) <br/> [classixapp](http://www.classixapp.com) <br/> [filmzie](https://filmzie.com/content/detour) |
 | The Devil Never Sleeps | 1994 | No data found |
 | Dickson Experimental Sound Film | 1894-1895 | No data found |
@@ -210,7 +210,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Eve's Bayou](https://en.wikipedia.org/wiki/Meagan_Good) | 1997 | Not available to stream |
 | The Evidence of the Film | 1913 | [fandor](https://www.fandor.com/films/the_evidence_of_the_film) |
 | The Exiles | 1961 | Not available anywhere |
-| [The Exorcist](https://en.wikipedia.org/wiki/Exorcist) | 1973 | [tubitv](https://tubitv.com/movies/589395?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXdu2RAwNtJuAuwEAADZy) |
+| [The Exorcist](https://en.wikipedia.org/wiki/The_Exorcist_(film)) | 1973 | [tubitv](https://tubitv.com/movies/589395?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXdu2RAwNtJuAuwEAADZy) |
 | The Exploits of Elaine | 1914 | No data found |
 | [A Face in the Crowd](https://en.wikipedia.org/wiki/Face_in_the_Crowd) | 1957 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GX3Uk3AB7E6HCwwEAAAI4) |
 | [Faces](https://en.wikipedia.org/wiki/Faces_of_Death) | 1968 | [criterionchannel](https://www.criterionchannel.com/faces-1) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXk3jxQSWOzC3wwEAAAhP) |
@@ -225,13 +225,13 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Field of Dreams](https://en.wikipedia.org/wiki/Field_of_Dreams) | 1989 | Not available to stream |
 | Film Portrait | 1972 | No data found |
 | [Five Easy Pieces](https://en.wikipedia.org/wiki/Susan_Anspach) | 1970 | [pluto](https://pluto.tv/on-demand/movies/five-easy-pieces-1-1-ptv2) |
-| [Flash Gordon](https://en.wikipedia.org/wiki/Flash_Gordon_(soundtrack)) | 1936 | Not available anywhere |
+| [Flash Gordon](https://en.wikipedia.org/wiki/Flash_Gordon_(film)) | 1936 | Not available anywhere |
 | [Flesh and the Devil](https://en.wikipedia.org/wiki/The_Quiet_Earth_(film)) | 1926 | [flixfling](https://www.flixfling.com/justwatch/15643) |
 | [Flower Drum Song](https://en.wikipedia.org/wiki/The_Flowers_of_Romance_(album)) | 1961 | [amazon](https://watch.amazon.com/detail?asin=B07LBBPZT7&camp=1789&creativeASIN=B07LBBPZT7&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [roku](https://therokuchannel.roku.com/details/7c3db623aac55f1b93e50f7e1d23b70c/flower-drum-song?source=bing) <br/> [hoopladigital](https://www.hoopladigital.com/title/12311947) <br/> [pluto](https://pluto.tv/on-demand/movies/flower-drum-song-1960-1-1) <br/> [vudu](https://www.vudu.com/content/movies/details/Flower-Drum-Song/5882) <br/> [directv](https://www.directv.com/movies/Flower-Drum-Song-WG9xMkZEdHpmdlhOSmtoNmZqTHc2Zz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/75214) |
 | [The Fog of War](https://en.wikipedia.org/wiki/Falklands_War) | 2003 | Not available to stream |
 | [A Fool There Was](https://en.wikipedia.org/wiki/List_of_Only_Fools_and_Horses_episodes) | 1915 | [amazon](https://watch.amazon.com/detail?asin=B01N1NCCIL&camp=1789&creativeASIN=B01N1NCCIL&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/a-fool-there-was) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000486570000%26o%3D0&irmp=1206980&irad=599309) <br/> [flixfling](https://www.flixfling.com/justwatch/14714) <br/> [vudu](https://www.vudu.com/content/movies/details/A-Fool-There-Was/4293) <br/> [directv](https://www.directv.com/movies/A-Fool-There-Was-Vzd6aVlZK0ZONTVXcTZQb1VjZDlLUT09) |
 | [Foolish Wives](https://en.wikipedia.org/wiki/List_of_films:_F) | 1922 | Not available to stream |
-| [Footlight Parade](https://en.wikipedia.org/wiki/Billy_Barty) | 1933 | Not available to stream |
+| [Footlight Parade](https://en.wikipedia.org/wiki/Joan_Blondell) | 1933 | Not available to stream |
 | [Forbidden Planet](https://en.wikipedia.org/wiki/Forbidden_Planet_(bookstore)) | 1956 | Not available to stream |
 | Force of Evil | 1949 | [criterionchannel](https://www.criterionchannel.com/force-of-evil) |
 | The Forgotten Frontier | 1931 | No data found |
@@ -243,11 +243,11 @@ This table shows streaming providers that show each of the movies from the Libra
 | Freaks | 1932 | [classixapp](http://www.classixapp.com) |
 | Free Radicals | 1979 | No data found |
 | [Freedom Riders](https://en.wikipedia.org/wiki/The_Freedom_Rider) | 2010 | [hoopladigital](https://www.hoopladigital.com/title/10084561) |
-| [The French Connection](https://en.wikipedia.org/wiki/The_French_Connection_(film)) | 1971 | Not available to stream |
+| [The French Connection](https://en.wikipedia.org/wiki/French_Connection) | 1971 | Not available to stream |
 | [The Freshman](https://en.wikipedia.org/wiki/Freshman_15) | 1925 | [criterionchannel](https://www.criterionchannel.com/the-freshman) <br/> [classixapp](http://www.classixapp.com) |
 | [From Here to Eternity](https://en.wikipedia.org/wiki/From_Here_to_Eternity) | 1953 | Not available to stream |
 | From Stump to Ship | 1930 | No data found |
-| [From the Manger to the Cross](https://en.wikipedia.org/wiki/Louisiana_French) | 1912 | [amazon](https://watch.amazon.com/detail?asin=B084BVDPQ3&camp=1789&creativeASIN=B084BVDPQ3&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/from-the-manger-to-the-cross) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000811650000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/From-the-Manger-to-the-Cross-aTJPdmdGYmdMZUxybGQydnpFVzZCdz09) |
+| [From the Manger to the Cross](https://en.wikipedia.org/wiki/List_of_films_based_on_the_Bible) | 1912 | [amazon](https://watch.amazon.com/detail?asin=B084BVDPQ3&camp=1789&creativeASIN=B084BVDPQ3&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/from-the-manger-to-the-cross) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000811650000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/From-the-Manger-to-the-Cross-aTJPdmdGYmdMZUxybGQydnpFVzZCdz09) |
 | [The Front Page](https://en.wikipedia.org/wiki/Front_Page_Challenge) | 1931 | [amazon](https://watch.amazon.com/detail?asin=B016113KHG&camp=1789&creativeASIN=B016113KHG&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [epix](http://www.epix.com/movie/the-front-page) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000017520000%26o%3D0&irmp=1206980&irad=599309) <br/> [criterionchannel](https://www.criterionchannel.com/the-front-page) <br/> [directv](https://www.directv.com/movies/The-Front-Page-R3l2bElDd25DUDZueTN6VHJRZW9QQT09) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXk3juAqPNDC3wwEAAAeK) <br/> [classixapp](http://www.classixapp.com) |
 | Fuentes Family Home Movies Collection | 1920s and 1930s | No data found |
 | Fuji | 1974 | No data found |
@@ -321,12 +321,12 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The House I Live In](https://en.wikipedia.org/wiki/The_House_I_Live_In_(1945_film)) | 1945 | Not available anywhere |
 | [The House in the Middle](https://en.wikipedia.org/wiki/United_States_foreign_policy_in_the_Middle_East) | 1954 | Not available anywhere |
 | [House of Usher](https://en.wikipedia.org/wiki/Confessions_(Usher_album)) | 1960 | Not available to stream |
-| [House of Wax](https://en.wikipedia.org/wiki/Jaume_Collet-Serra) | 1953 | Not available to stream |
+| [House of Wax](https://en.wikipedia.org/wiki/Chad_Michael_Murray) | 1953 | Not available to stream |
 | [How Green Was My Valley](https://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(film)) | 1941 | [criterionchannel](https://www.criterionchannel.com/how-green-was-my-valley) |
 | [How the West Was Won](https://en.wikipedia.org/wiki/Toyan) | 1962 | [directv](https://www.directv.com/movies/How-the-West-Was-Won-VnQ0VUxtOHU5Z3FueTN6VHJRZW9QQT09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/2016) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6Hg8PlY-njwEAAATW) |
 | [Hud](https://en.wikipedia.org/wiki/Hud_(1963_film)) | 1963 | [amazon](https://watch.amazon.com/detail?asin=B0844X9V6K&camp=1789&creativeASIN=B0844X9V6K&ie=UTF8&linkCode=xm2&tag=justwatch09-20) |
 | Humoresque | 1920 | No data found |
-| [The Hunters](https://en.wikipedia.org/wiki/Hunters_%26_Collectors) | 1958 | Not available to stream |
+| [The Hunters](https://en.wikipedia.org/wiki/Treasure_Hunters_(film)) | 1958 | Not available to stream |
 | [The Hurt Locker](https://en.wikipedia.org/wiki/The_Hurt_Locker) | 2008 | [roku](https://therokuchannel.roku.com/details/9ebc837672a05b35a0854f11434f7e7c/the-hurt-locker?source=bing) <br/> [directv](https://www.directv.com/movies/The-Hurt-Locker-KzM1aUl1OHZMdXQ5RTFCanQwcnZWZz09) |
 | [The Hustler](https://en.wikipedia.org/wiki/Hustler) | 1961 | [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000086880000%26o%3D0&irmp=1206980&irad=599309) <br/> [criterionchannel](https://www.criterionchannel.com/the-hustler) <br/> [flixfling](https://www.flixfling.com/justwatch/18505) <br/> [directv](https://www.directv.com/movies/The-Hustler-ekJjM1IrLzA5cGQzajBHY3lQZkRHdz09) <br/> [indieflix](https://watch.indieflix.com/movie/49-ifwzhn18qlgy-the-hustler) |
 | [I Am a Fugitive from a Chain Gang](https://en.wikipedia.org/wiki/List_of_films:_I) | 1932 | Not available to stream |
@@ -416,7 +416,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Little Fugitive](https://en.wikipedia.org/wiki/The_Fugitive_(1993_film)) | 1953 | Not available to stream |
 | [Little Miss Marker](https://en.wikipedia.org/wiki/Little_Miss_Marker_(1980_film)) | 1934 | Not available anywhere |
 | Little Nemo | 1911 | No data found |
-| [Lives of Performers](https://en.wikipedia.org/wiki/Chrishell_Stause) | 1972 | Not available to stream |
+| [Lives of Performers](https://en.wikipedia.org/wiki/List_of_Days_of_Our_Lives_characters) | 1972 | Not available to stream |
 | [The Living Desert](https://en.wikipedia.org/wiki/Living_Desert_Zoo_and_Gardens) | 1953 | [disneyplus](https://www.disneyplus.com/movies/the-living-desert/3BAQGbl7Obvc) |
 | Lonesome | 1928 | No data found |
 | [Losing Ground](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981) | 1982 | [criterionchannel](https://www.criterionchannel.com/losing-ground) |
@@ -428,7 +428,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Love Me Tonight](https://en.wikipedia.org/wiki/In_the_Air_Tonight) | 1932 | Not available anywhere |
 | The Lunch Date | 1989 | No data found |
 | [Luxo Jr.](https://en.wikipedia.org/wiki/The_Adventures_of_Andr%C3%A9_%26_Wally_B.) | 1986 | Not available to stream |
-| [M*A*S*H](https://en.wikipedia.org/wiki/Midrash) | 1970 | Not available to stream |
+| [M*A*S*H](https://en.wikipedia.org/wiki/Macintosh) | 1970 | Not available to stream |
 | Mabel’s Blunder | 1914 | No data found |
 | Magical Maestro | 1952 | No data found |
 | [The Magnificent Ambersons](https://en.wikipedia.org/wiki/Joseph_Cotten) | 1942 | [directv](https://www.directv.com/movies/The-Magnificent-Ambersons-VDZiMHVYTFRlYnBjTCtkSGhMVStZUT09) |
@@ -437,7 +437,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | The Making of an American | 1920 | No data found |
 | [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X) | 1992 | [hulu](https://www.hulu.com/watch/f89e2141-792f-4efe-9709-af491761a473) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjtSkAU-a4-njwEAAA8n) |
 | [The Maltese Falcon](https://en.wikipedia.org/wiki/Maltese_Falcon_Society) | 1941 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6IA07c47CZgEAAAY4) |
-| [The Man Who Shot Liberty Valance](https://en.wikipedia.org/wiki/Vera_Miles) | 1962 | [amazon](https://watch.amazon.com/detail?asin=B00BVZYE9Q&camp=1789&creativeASIN=B00BVZYE9Q&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [hulu](https://www.hulu.com/watch/d0645877-ec5d-4b0c-b154-e4c0fa750c2b) <br/> [epix](http://www.epix.com/movie/the-man-who-shot-liberty-valance) <br/> [cbs](https://www.cbs.com/movies/man-who-shot-liberty-valance/YvRGJONHCSR9EiODT0f5NIgjoK_iQXmh/) <br/> [sling](https://watch.sling.com/browse/search?query=The%20Man%20Who%20Shot%20Liberty%20Valance) <br/> [directv](https://www.directv.com/movies/The-Man-Who-Shot-Liberty-Valance-d1FmdEFVTWtsS3owTDBSM3FFY2poZz09) |
+| [The Man Who Shot Liberty Valance](https://en.wikipedia.org/wiki/Wives_and_Lovers) | 1962 | [amazon](https://watch.amazon.com/detail?asin=B00BVZYE9Q&camp=1789&creativeASIN=B00BVZYE9Q&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [hulu](https://www.hulu.com/watch/d0645877-ec5d-4b0c-b154-e4c0fa750c2b) <br/> [epix](http://www.epix.com/movie/the-man-who-shot-liberty-valance) <br/> [cbs](https://www.cbs.com/movies/man-who-shot-liberty-valance/YvRGJONHCSR9EiODT0f5NIgjoK_iQXmh/) <br/> [sling](https://watch.sling.com/browse/search?query=The%20Man%20Who%20Shot%20Liberty%20Valance) <br/> [directv](https://www.directv.com/movies/The-Man-Who-Shot-Liberty-Valance-d1FmdEFVTWtsS3owTDBSM3FFY2poZz09) |
 | [The Man with the Golden Arm](https://en.wikipedia.org/wiki/The_Man_with_the_Golden_Arm_(novel)) | 1955 | [amazon](https://watch.amazon.com/detail?asin=B00D5VDQI4&camp=1789&creativeASIN=B00D5VDQI4&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [mubi](https://mubi.com/films/the-man-with-the-golden-arm) <br/> [fandor](https://www.fandor.com/films/the_man_with_the_golden_arm) <br/> [tubitv](https://tubitv.com/movies/346621?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [roku](https://therokuchannel.roku.com/details/c7330e45d8a55d629925e8cbd91ed2ff/the-man-with-the-golden-arm?source=bing) <br/> [pluto](https://pluto.tv/on-demand/movies/the-man-with-the-golden-arm-1-1) <br/> [flixfling](https://www.flixfling.com/justwatch/757) <br/> [vudu](https://www.vudu.com/content/movies/details/The-Man-With-the-Golden-Arm/1376021) <br/> [indieflix](https://watch.indieflix.com/movie/49-nl00mnp7dcfz-the-man-with-the-golden-arm) <br/> [classixapp](http://www.classixapp.com) |
 | [The Manchurian Candidate](https://en.wikipedia.org/wiki/Richard_Condon) | 1962 | Not available to stream |
 | Manhatta | 1921 | Not available anywhere |
@@ -446,7 +446,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | March of Time: Inside Nazi Germany | 1938 | No data found |
 | Marian Anderson: the Lincoln Memorial Concert | 1939 | No data found |
 | The Mark of Zorro | 1920 | No data found |
-| [The Mark of Zorro](https://en.wikipedia.org/wiki/The_Mark_of_Zorro_(1920_film)) | 1940 | [epix](http://www.epix.com/movie/the-mark-of-zorro) <br/> [hoopladigital](https://www.hoopladigital.com/title/12292880) |
+| [The Mark of Zorro](https://en.wikipedia.org/wiki/The_Mark_of_Zorro_(1940_film)) | 1940 | [epix](http://www.epix.com/movie/the-mark-of-zorro) <br/> [hoopladigital](https://www.hoopladigital.com/title/12292880) |
 | Martha Graham Dance Films | None | No data found |
 | [Marty](https://en.wikipedia.org/wiki/Marty_Mann) | 1955 | [tubitv](https://tubitv.com/movies/312421?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [pluto](https://pluto.tv/on-demand/movies/marty-1955-1-1) |
 | [Mary Poppins](https://en.wikipedia.org/wiki/Mary_Poppins_(book_series)) | 1964 | [disneyplus](https://www.disneyplus.com/movies/mary-poppins/3P3waOoBmUdm) |
@@ -484,7 +484,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Mrs. Miniver](https://en.wikipedia.org/wiki/Mrs._Miniver) | 1942 | [indieflix](https://watch.indieflix.com/movie/49-kloukgvbwdcn-mrs-miniver) |
 | Multiple SIDosis | 1970 | No data found |
 | [The Muppet Movie](https://en.wikipedia.org/wiki/The_Muppet_Movie) | 1979 | [disneyplus](https://www.disneyplus.com/movies/the-muppet-movie/2rJuGncIuWy1) |
-| [The Music Box](https://en.wikipedia.org/wiki/Music_box) | 1932 | Not available to stream |
+| [The Music Box](https://en.wikipedia.org/wiki/1981_in_music) | 1932 | Not available to stream |
 | [The Music Man](https://en.wikipedia.org/wiki/1981_in_music) | 1962 | Not available to stream |
 | [The Musketeers of Pig Alley](https://en.wikipedia.org/wiki/D._W._Griffith) | 1912 | Not available anywhere |
 | [My Darling Clementine](https://en.wikipedia.org/wiki/Henry_Fonda_filmography) | 1946 | Not available to stream |
@@ -503,7 +503,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The Negro Soldier](https://en.wikipedia.org/wiki/Del_Negro_(actor)) | 1944 | [flixfling](https://www.flixfling.com/justwatch/13289) <br/> [indieflix](https://watch.indieflix.com/movie/49-cji8y2zy91to-the-negro-soldier) |
 | [Network](https://en.wikipedia.org/wiki/1981%E2%80%9382_United_States_network_television_schedule) | 1976 | [hoopladigital](https://www.hoopladigital.com/title/13529230) |
 | [A New Leaf](https://en.wikipedia.org/wiki/Maple_Leaf_(train)) | 1971 | [criterionchannel](https://www.criterionchannel.com/a-new-leaf) <br/> [pluto](https://pluto.tv/on-demand/movies/a-new-leaf-1971-1-1) |
-| [Newark Athlete](https://en.wikipedia.org/wiki/Hugh_Joseph_Addonizio) | 1891 | Not available anywhere |
+| [Newark Athlete](https://en.wikipedia.org/wiki/List_of_people_from_Newark,_New_Jersey) | 1891 | Not available anywhere |
 | Nicholas Brothers' Home Movies | 1930s-'40s | No data found |
 | [A Night at the Opera](https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)) | 1935 | [criterionchannel](https://www.criterionchannel.com/a-night-at-the-opera) |
 | [The Night of the Hunter](https://en.wikipedia.org/wiki/The_Night_of_the_Hunter_(film)) | 1955 | [amazon](https://watch.amazon.com/detail?asin=B00CSCK4JK&camp=1789&creativeASIN=B00CSCK4JK&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [tubitv](https://tubitv.com/movies/302723?utm_source=justwatch-feed&tracking=justwatch-feed) |
@@ -543,7 +543,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Paris Is Burning](https://en.wikipedia.org/wiki/Paris_Dupree) | 1991 | [criterionchannel](https://www.criterionchannel.com/paris-is-burning) |
 | Pass the Gravy | 1928 | No data found |
 | [Paths of Glory](https://en.wikipedia.org/wiki/Paths_of_Glory) | 1957 | [tubitv](https://tubitv.com/movies/301935?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [pluto](https://pluto.tv/on-demand/movies/paths-of-glory-1958-1-1) |
-| [Patton](https://en.wikipedia.org/wiki/George_S._Patton) | 1970 | [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000067420000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/Patton-d2hCRmVRREtzeHFkbkJiZTU3ejVVUT09) |
+| [Patton](https://en.wikipedia.org/wiki/Charley_Patton) | 1970 | [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000067420000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/Patton-d2hCRmVRREtzeHFkbkJiZTU3ejVVUT09) |
 | [The Pawnbroker](https://en.wikipedia.org/wiki/Yossi_Dina) | 1965 | [amazon](https://watch.amazon.com/detail?asin=B0161VAU5G&camp=1789&creativeASIN=B0161VAU5G&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [hulu](https://www.hulu.com/watch/6f28ebff-646d-44c5-a6f8-cb28d0042c89) <br/> [epix](http://www.epix.com/movie/the-pawnbroker) <br/> [directv](https://www.directv.com/movies/The-Pawnbroker-WG9xMkZEdHpmdlh0RjNzMlZGWGo1QT09) |
 | The Pearl | 1948 | No data found |
 | Peege | 1973 | [amazon](https://watch.amazon.com/detail?asin=B07ZPJSPVR&camp=1789&creativeASIN=B07ZPJSPVR&ie=UTF8&linkCode=xm2&tag=justwatch09-20) |
@@ -588,14 +588,14 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Purple Rain](https://en.wikipedia.org/wiki/Purple_Rain_(film)) | 1984 | Not available to stream |
 | [Putney Swope](https://en.wikipedia.org/wiki/Putney_Swope) | 1969 | [amazon](https://watch.amazon.com/detail?asin=B08DKQHS9V&camp=1789&creativeASIN=B08DKQHS9V&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [tubitv](https://tubitv.com/movies/475775?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [criterionchannel](https://www.criterionchannel.com/putney-swope) <br/> [vudu](https://www.vudu.com/content/movies/details/Putney-Swope/3393) <br/> [nightflightplus](https://www.nightflightplus.com/videos/putney-swope/5fb6d0f62a55760001e48771) |
 | Quasi at the Quackadero | 1975 | No data found |
-| [The Quiet Man](https://en.wikipedia.org/wiki/The_Quiet_Earth_(film)) | 1952 | [amazon](https://watch.amazon.com/detail?asin=B08KGQZHPX&camp=1789&creativeASIN=B08KGQZHPX&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [pluto](https://pluto.tv/on-demand/movies/the-quiet-man-1951-1-1) |
+| [The Quiet Man](https://en.wikipedia.org/wiki/Quiet_Riot) | 1952 | [amazon](https://watch.amazon.com/detail?asin=B08KGQZHPX&camp=1789&creativeASIN=B08KGQZHPX&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [pluto](https://pluto.tv/on-demand/movies/the-quiet-man-1951-1-1) |
 | [Raging Bull](https://en.wikipedia.org/wiki/Raging_Bull) | 1980 | Not available to stream |
 | [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark) | 1981 | [cbs](https://www.cbs.com/movies/indiana-jones-and-the-raiders-of-the-lost-ark/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/) <br/> [paramountplus](https://www.paramountplus.com/movies/indiana-jones-and-the-raiders-of-the-lost-ark/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/) |
 | [A Raisin in the Sun](https://en.wikipedia.org/wiki/Claudia_McNeil) | 1961 | [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000019340000%26o%3D0&irmp=1206980&irad=599309) |
 | [Real Women Have Curves](https://en.wikipedia.org/wiki/Chicano_films) | 2002 | [hbonow](https://play.hbonow.com/feature/urn:hbo:feature:GVg8Q0wpwhZubaxsKAAAK) <br/> [amazon](https://watch.amazon.com/detail?asin=B00KMBP1X8&camp=1789&creativeASIN=B00KMBP1X8&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [directv](https://www.directv.com/movies/Real-Women-Have-Curves-Z2syMFFRMTBiQ2xoRHYwS3pnSENBdz09) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GVg8Q0wpwhZubaxsKAAAK) |
 | [Rear Window](https://en.wikipedia.org/wiki/Opera_window) | 1954 | Not available to stream |
 | [Rebecca](https://en.wikipedia.org/wiki/Rebecca_(1940_film)) | 1940 | Not available anywhere |
-| [Rebel Without a Cause](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy) | 1955 | [directv](https://www.directv.com/movies/Rebel-Without-a-Cause-d1FmdEFVTWtsS3puQ1FQdTFCdDU2dz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/16115) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6GwlME5PCwgEAAASq) |
+| [Rebel Without a Cause](https://en.wikipedia.org/wiki/The_Rebel_Without_Claws) | 1955 | [directv](https://www.directv.com/movies/Rebel-Without-a-Cause-d1FmdEFVTWtsS3puQ1FQdTFCdDU2dz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/16115) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6GwlME5PCwgEAAASq) |
 | [The Red Book](https://en.wikipedia.org/wiki/My_Little_Red_Book) | 1994 | [fandor](https://www.fandor.com/films/the_red_book) |
 | [Red Dust](https://en.wikipedia.org/wiki/William_Forsythe_(actor)) | 1932 | Not available to stream |
 | [Red River](https://en.wikipedia.org/wiki/Red_River_of_the_South) | 1948 | Not available to stream |
@@ -605,7 +605,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | Return of the Secaucus 7 | 1980 | No data found |
 | The Revenge of Pancho Villa | 1930-1936 | No data found |
 | Reverend Solomon Sir Jones films | 1924-28 | No data found |
-| [Ride the High Country](https://en.wikipedia.org/wiki/Dreamworld_(Australia)) | 1962 | Not available to stream |
+| [Ride the High Country](https://en.wikipedia.org/wiki/Ride_the_Lightning) | 1962 | Not available to stream |
 | [The Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_(film)) | 1983 | [tubitv](https://tubitv.com/movies/589989?utm_source=justwatch-feed&tracking=justwatch-feed) |
 | [Rio Bravo](https://en.wikipedia.org/wiki/Bravo_(American_TV_network)) | 1959 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6HQUBoI7CZgEAAAWY) |
 | Rip Van Winkle | 1896 | No data found |
@@ -634,14 +634,14 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The Searchers](https://en.wikipedia.org/wiki/The_Searchers_(band)) | 1956 | [directv](https://www.directv.com/movies/The-Searchers-NWo3YW5UN0J1b2RQRkdzaW9kY1Q4dz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/16113) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6HgqrzZPCwgEAAAUR) |
 | Seconds | 1966 | [cbs](https://www.cbs.com/movies/seconds/Xj3YpVPBz7TXqhtpF0_I16b6o4tnekn3/) <br/> [paramountplus](https://www.paramountplus.com/movies/seconds/Xj3YpVPBz7TXqhtpF0_I16b6o4tnekn3/) |
 | Serene Velocity | 1970 | No data found |
-| [Sergeant York](https://en.wikipedia.org/wiki/Alvin_York) | 1941 | Not available to stream |
+| [Sergeant York](https://en.wikipedia.org/wiki/Nighthawks_(1981_film)) | 1941 | Not available to stream |
 | [Seven Brides for Seven Brothers](https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers_(musical)) | 1954 | Not available to stream |
 | Seventh Heaven | 1927 | No data found |
 | The Sex Life of the Polyp | 1928 | No data found |
 | [Sex, Lies, and Videotape](https://en.wikipedia.org/wiki/James_Spader) | 1989 | Not available to stream |
-| [Shadow of a Doubt](https://en.wikipedia.org/wiki/List_of_mystery_films) | 1943 | Not available to stream |
+| [Shadow of a Doubt](https://en.wikipedia.org/wiki/Nicola_Correia-Damude) | 1943 | Not available to stream |
 | [Shadows](https://en.wikipedia.org/wiki/M._Shadows) | 1959 | [criterionchannel](https://www.criterionchannel.com/shadows-1) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXmlSpQ7DjMNVoAEAAASv) |
-| [Shaft](https://en.wikipedia.org/wiki/Richard_Roundtree) | 1971 | [criterionchannel](https://www.criterionchannel.com/shaft) |
+| [Shaft](https://en.wikipedia.org/wiki/Theme_from_Shaft) | 1971 | [criterionchannel](https://www.criterionchannel.com/shaft) |
 | [Shane](https://en.wikipedia.org/wiki/Shane_(name)) | 1953 | [amazon](https://watch.amazon.com/detail?asin=B08XDS91GS&camp=1789&creativeASIN=B08XDS91GS&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [criterionchannel](https://www.criterionchannel.com/shane) |
 | [The Shawshank Redemption](https://en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption) | 1994 | [sling](https://watch.sling.com/browse/search?query=The%20Shawshank%20Redemption) |
 | [She Done Him Wrong](https://en.wikipedia.org/wiki/Pennies_from_Heaven_(1981_film)) | 1933 | [flixfling](https://www.flixfling.com/justwatch/10328) |
@@ -652,9 +652,9 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Shock Corridor](https://en.wikipedia.org/wiki/Fritzl_case) | 1963 | [criterionchannel](https://www.criterionchannel.com/shock-corridor) <br/> [flixfling](https://www.flixfling.com/justwatch/16549) <br/> [indieflix](https://watch.indieflix.com/movie/49-fxnmypuwqrzm-shock-corridor) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXmlShw2m3CLCHAEAAB-d) |
 | [Shoes](https://en.wikipedia.org/wiki/Jelly_shoes) | 1916 | Not available anywhere |
 | [The Shop Around the Corner](https://en.wikipedia.org/wiki/Sesame_Street_(fictional_location)) | 1940 | Not available to stream |
-| [Show Boat](https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film)) | 1936 | [directv](https://www.directv.com/movies/Show-Boat-anZLZlM3Q1RNV1huQ1FQdTFCdDU2dz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/14337) |
+| [Show Boat](https://en.wikipedia.org/wiki/Das_Boot) | 1936 | [directv](https://www.directv.com/movies/Show-Boat-anZLZlM3Q1RNV1huQ1FQdTFCdDU2dz09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/14337) |
 | [Show People](https://en.wikipedia.org/wiki/Lee_Dong-wook) | 1928 | Not available anywhere |
-| [Shrek](https://en.wikipedia.org/wiki/2001_in_film) | 2001 | [hulu](https://www.hulu.com/watch/1850f389-6339-4e1c-8351-35208ffb6a7f) <br/> [nbc](http://www.nbc.com/movies-on-usa/video/shrek/3945779) |
+| [Shrek](https://en.wikipedia.org/wiki/2004_in_film) | 2001 | [hulu](https://www.hulu.com/watch/1850f389-6339-4e1c-8351-35208ffb6a7f) <br/> [nbc](http://www.nbc.com/movies-on-usa/video/shrek/3945779) |
 | Siege | 1940 | No data found |
 | [The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(novel)) | 1991 | [showtime](https://www.showtime.com/#/movie/3428086) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000328370000%26o%3D0&irmp=1206980&irad=599309) <br/> [directv](https://www.directv.com/movies/The-Silence-of-the-Lambs-NVpQbm9lS1g2YU1pL3Rwb1JpMmJydz09) |
 | [Singin' in the Rain](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain_(song)) | 1952 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXjS6HwuDQo-njwEAAAT1) |
@@ -668,23 +668,23 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Snow White and the Seven Dwarfs](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)) | 1937 | [disneyplus](https://www.disneyplus.com/movies/snow-white-and-the-seven-dwarfs/7X592hsrOB4X) |
 | [Some Like It Hot](https://en.wikipedia.org/wiki/Some_Like_It_Hot_(album)) | 1959 | [amazon](https://watch.amazon.com/detail?asin=B00D5WTW4K&camp=1789&creativeASIN=B00D5WTW4K&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [pluto](https://pluto.tv/on-demand/movies/some-like-it-hot-1959-1-1) |
 | Something Good – Negro Kiss | 1898 | No data found |
-| [The Son of the Sheik](https://en.wikipedia.org/wiki/Sammy_Sheik) | 1926 | Not available anywhere |
-| Sons of the Desert | 1933 | [hoopladigital](https://www.hoopladigital.com/title/12368303) <br/> [criterionchannel](https://www.criterionchannel.com/sons-of-the-desert) |
+| [The Son of the Sheik](https://en.wikipedia.org/wiki/The_Sheik_(wrestler)) | 1926 | Not available anywhere |
+| [Sons of the Desert](https://en.wikipedia.org/wiki/Queen_of_the_Desert_(film)) | 1933 | [hoopladigital](https://www.hoopladigital.com/title/12368303) <br/> [criterionchannel](https://www.criterionchannel.com/sons-of-the-desert) |
 | [The Sound of Music](https://en.wikipedia.org/wiki/The_Sound_of_Music) | 1965 | [disneyplus](https://www.disneyplus.com/movies/the-sound-of-music/4c1Sp2qE83Fc) |
 | So’s Your Old Man | 1926 | No data found |
-| [Spartacus](https://en.wikipedia.org/wiki/Spartacus_(ballet)) | 1960 | Not available to stream |
+| [Spartacus](https://en.wikipedia.org/wiki/Third_Servile_War) | 1960 | Not available to stream |
 | [The Spook Who Sat by the Door](https://en.wikipedia.org/wiki/Ivan_Dixon) | 1973 | Not available anywhere |
 | [St. Louis Blues](https://en.wikipedia.org/wiki/St._Louis) | 1929 | [criterionchannel](https://www.criterionchannel.com/st-louis-blues) |
 | [Stagecoach](https://en.wikipedia.org/wiki/Stagecoach_Group) | 1939 | [amazon](https://watch.amazon.com/detail?asin=B07DV1VVJL&camp=1789&creativeASIN=B07DV1VVJL&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [tubitv](https://tubitv.com/movies/499716?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hoopladigital](https://www.hoopladigital.com/title/12211394) <br/> [criterionchannel](https://www.criterionchannel.com/stagecoach) <br/> [pluto](https://pluto.tv/on-demand/movies/stagecoach-legend-films-1938-1-1) <br/> [directv](https://www.directv.com/movies/Stagecoach-dnlCUzErb1o0b0pWZDJlVEd2bEZ5UT09) <br/> [tcm](https://www.tcm.com/watchtcm/titles/91227) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXmlSxAEgCCLCHAEAACA8) |
 | [Stand and Deliver](https://en.wikipedia.org/wiki/Stand_and_Deliver_(Adam_and_the_Ants_song)) | 1988 | [maxgo](https://play.maxgo.com/feature/urn:hbo:feature:GX5cx6wtPzaeLBgEAAAAl) <br/> [amazon](https://watch.amazon.com/detail?asin=B00C3MAZZ8&camp=1789&creativeASIN=B00C3MAZZ8&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [directv](https://www.directv.com/movies/Stand-and-Deliver-eHJGVmZYR0ZsWGlWMHZySStoa3FvZz09) |
-| [A Star Is Born](https://en.wikipedia.org/wiki/Evergreen_(Love_Theme_from_A_Star_Is_Born)) | 1954 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXk2bgA5hXjC3wwEAAAaY) |
+| [A Star Is Born](https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)) | 1954 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXk2bgA5hXjC3wwEAAAaY) |
 | [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) | 1977 | [sling](https://watch.sling.com/browse/search?query=Star%20Wars:%20A%20New%20Hope) <br/> [disneyplus](https://www.disneyplus.com/movies/star-wars-a-new-hope-episode-iv/12fVeZxD2fWJ) |
 | Stark Love | 1927 | No data found |
 | [State Fair](https://en.wikipedia.org/wiki/Ohio_State_Fair) | 1933 | Not available to stream |
 | [Steamboat Bill, Jr.](https://en.wikipedia.org/wiki/Ricky_Steamboat) | 1928 | [amazon](https://watch.amazon.com/detail?asin=B0159JW70C&camp=1789&creativeASIN=B0159JW70C&ie=UTF8&linkCode=xm2&tag=justwatch09-20) <br/> [mubi](https://mubi.com/films/steamboat-bill-jr) <br/> [epix](http://www.epix.com/movie/steamboat-bill-jr) <br/> [tubitv](https://tubitv.com/movies/57208?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [popcornflix](https://www.popcornflix.com/watch/channel/old-school-cool/movie/18-w8j2nubr33e8-steamboat-bill-jr) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000083070000%26o%3D0&irmp=1206980&irad=599309) <br/> [pureflix](https://pureflix.com/videos/265691174507/watch) <br/> [pluto](https://pluto.tv/on-demand/movies/steamboat-bill-jr-1-1) <br/> [directv](https://www.directv.com/movies/Steamboat-Bill-Jr-ZitEOStZK3JNOXp6QWIxV2hwWHNHdz09) |
 | [Steamboat Willie](https://en.wikipedia.org/wiki/Mickey_Mouse) | 1928 | Not available anywhere |
 | [The Sting](https://en.wikipedia.org/wiki/The_Sting) | 1973 | Not available to stream |
-| [Stormy Weather](https://en.wikipedia.org/wiki/Nicholas_Brothers) | 1943 | Not available to stream |
+| Stormy Weather | 1943 | Not available to stream |
 | The Story of G.I. Joe | 1945 | No data found |
 | The Story of Menstruation | 1946 | No data found |
 | [Stranger Than Paradise](https://en.wikipedia.org/wiki/Stranger_Than_Paradise) | 1984 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXmlS2AHO8p4_wwEAADEd) |
@@ -721,7 +721,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | They Call It Pro Football | 1966 | No data found |
 | [The Thief of Bagdad](https://en.wikipedia.org/wiki/John_Justin) | 1924 | [tubitv](https://tubitv.com/movies/507446?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [hoopladigital](https://www.hoopladigital.com/title/12250863) <br/> [criterionchannel](https://www.criterionchannel.com/the-thief-of-bagdad) <br/> [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GXmlSkQ5CyyLCHAEAAB_Q) <br/> [classixapp](http://www.classixapp.com) |
 | [The Thin Blue Line](https://en.wikipedia.org/wiki/The_Thin_Blue_Line_(1988_film)) | 1988 | [criterionchannel](https://www.criterionchannel.com/the-thin-blue-line) <br/> [directv](https://www.directv.com/movies/The-Thin-Blue-Line-QkM3NlNDZTdjT3RXcTZQb1VjZDlLUT09) <br/> [amazon](https://watch.amazon.com/detail?asin=B00CT9N3B8&camp=1789&creativeASIN=B00CT9N3B8&ie=UTF8&linkCode=xm2&tag=justwatch09-20) |
-| [The Thin Man](https://en.wikipedia.org/wiki/The_Thin_Blue_Line_(1988_film)) | 1934 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GX07gwwLjmbCttQEAAAII) |
+| [The Thin Man](https://en.wikipedia.org/wiki/Ballad_of_a_Thin_Man) | 1934 | [hbomax](https://play.hbomax.com/feature/urn:hbo:feature:GX07gwwLjmbCttQEAAAII) |
 | [The Thing from Another World](https://en.wikipedia.org/wiki/The_Thing_(1982_film)) | 1951 | Not available to stream |
 | Think of Me First as a Person | 1960-1975 | No data found |
 | [This Is Cinerama](https://en.wikipedia.org/wiki/List_of_70_mm_films) | 1952 | Not available to stream |
@@ -788,7 +788,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Will Success Spoil Rock Hunter?](https://en.wikipedia.org/wiki/Will_Success_Spoil_Rock_Hunter%3F) | 1957 | Not available to stream |
 | Willy Wonka and the Chocolate Factory | 1971 | No data found |
 | Winchester '73 | 1950 | [tubitv](https://tubitv.com/movies/585976?utm_source=justwatch-feed&tracking=justwatch-feed) |
-| [The Wind](https://en.wikipedia.org/wiki/Earth,_Wind_%26_Fire) | 1928 | Not available anywhere |
+| [The Wind](https://en.wikipedia.org/wiki/Wild_Is_the_Wind_(song)) | 1928 | Not available anywhere |
 | [Wings](https://en.wikipedia.org/wiki/The_Wings_of_the_Dove_(1981_film)) | 1927 | Not available to stream |
 | The Wishing Ring: an Idyll of Old England | 1914 | No data found |
 | With Car and Camera Around the World | 1929 | No data found |
