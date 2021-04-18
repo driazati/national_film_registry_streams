@@ -12,16 +12,14 @@ jobs:
           python-version: 3.9
       - name: Install dependencies
         run: |
-          cat /proc/cpuinfo
-          lscpu
-      #     python -m pip install --upgrade pip
-      #     pip install -r requirements.txt
-      # - name: Generate
-      #   run: |
-      #     make all
-      # - name: run test push
-      #   run: |
-      #     git config --global user.name 'driazati'
-      #     git config --global user.email 'driazati@users.noreply.github.com'
-      #     git commit -am "[gha] automated re-genenerate"
-      #     git push
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Generate
+        run: |
+          make all
+      - name: run test push
+        run: |
+          git config --global user.name 'driazati'
+          git config --global user.email 'driazati@users.noreply.github.com'
+          git commit -am "[gha] automated re-genenerate"
+          git push
