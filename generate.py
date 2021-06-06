@@ -16,8 +16,8 @@ from urllib.parse import urlparse
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--source-tsv-file')
-parser.add_argument('--country', default="US")
+parser.add_argument("--source-tsv-file")
+parser.add_argument("--country", default="US")
 args = parser.parse_args()
 
 jw = JustWatch(country=args.country)
@@ -27,22 +27,18 @@ remaps = {
     "The Battle of San Pietro": "San Pietro",
 }
 
-alldata = jsondict(save_on_every_write=False,
-                   file_name="data.json")
+alldata = jsondict(save_on_every_write=False, file_name="data.json")
 
 FORMAT = "[%(asctime)s] %(levelname)s - %(message)s"
-logging.basicConfig(format=FORMAT,
-                    level=logging.INFO,
-                    datefmt="%Y-%m-%d %H:%M:%S")
+logging.basicConfig(format=FORMAT, level=logging.INFO, datefmt="%Y-%m-%d %H:%M:%S")
 
 
 def clean(s: str):
     """
     Clean up string for comparing movie names
     """
-    s = re.sub(r'\(.*\)', '', s)
-    s = re.sub(
-        r'\W+', '', s).lower().replace('é', 'e').replace('the', '')
+    s = re.sub(r"\(.*\)", "", s)
+    s = re.sub(r"\W+", "", s).lower().replace("é", "e").replace("the", "")
     return s
 
 
@@ -52,12 +48,12 @@ def matches(name, release_year, item):
     from the justwatch API
     """
     name = remaps.get(name, name)
-    item_title = clean(item['title'])
+    item_title = clean(item["title"])
     name = clean(name)
     if not (item_title.startswith(name) or name.startswith(item_title)):
         return False
 
-    item_release_year = item.get('original_release_year', float("inf"))
+    item_release_year = item.get("original_release_year", float("inf"))
     if str(release_year) == str(item_release_year):
         return True
 
@@ -72,25 +68,28 @@ def get_domain(url):
     Get the domain name from a full URL
     """
     loc = urlparse(url).netloc
-    return '.'.join(loc.split(".")[-2:-1])
+    return ".".join(loc.split(".")[-2:-1])
 
 
 def get_movie(name, release_year):
     """
     Locate a movie in the justwatch API
     """
-    key = f"{name} {release_year}"
-    if key not in alldata:
-        logging.info(f"Fetching {name}")
-        alldata[key] = jw.search_for_item(name)
-    else:
-        logging.info(f"Using cached {name}")
-    results = alldata[key]
+    try:
+        key = f"{name} {release_year}"
+        if key not in alldata:
+            logging.info(f"Fetching {name}")
+            alldata[key] = jw.search_for_item(name)
+        else:
+            logging.info(f"Using cached {name}")
+        results = alldata[key]
 
-    if release_year is not None and release_year.isnumeric():
-        for item in results['items']:
-            if matches(name, release_year, item):
-                return item
+        if release_year is not None and release_year.isnumeric():
+            for item in results["items"]:
+                if matches(name, release_year, item):
+                    return item
+    except Exception as e:
+        pass
 
     return None
 
@@ -99,18 +98,18 @@ def find_streams(result):
     """
     Pull non-rent/buy options out of a justwatch API result
     """
-    if 'offers' not in result:
+    if "offers" not in result:
         return None
 
     streams = []
-    for stream in result['offers']:
+    for stream in result["offers"]:
         if stream.get("monetization_type", False) == "flatrate":
-            url = stream['urls']['standard_web']
-            type = stream['presentation_type'].upper()
+            url = stream["urls"]["standard_web"]
+            type = stream["presentation_type"].upper()
             streams.append((get_domain(url), type, url))
         elif stream.get("monetization_type", False) == "ads":
-            url = stream['urls']['standard_web']
-            type = stream['presentation_type'].upper()
+            url = stream["urls"]["standard_web"]
+            type = stream["presentation_type"].upper()
             streams.append((get_domain(url), type, url))
     return streams
 
@@ -131,9 +130,7 @@ def streams_to_text(streams) -> str:
         if domain in seen:
             seen[domain][type] = url
         else:
-            seen[domain] = {
-                type: url
-            }
+            seen[domain] = {type: url}
 
     for domain, items in seen.items():
         if len(items) == 1:
@@ -149,8 +146,7 @@ def streams_to_text(streams) -> str:
     return " <br/> ".join(streams_to_print)
 
 
-urls = jsondict(save_on_every_write=False,
-                file_name="wiki.json")
+urls = jsondict(save_on_every_write=False, file_name="wiki.json")
 
 
 def get_wiki_url(title, year):
@@ -183,8 +179,8 @@ def get_movie_row(args):
         logging.info(f"Unable to find {name} {release_year}")
         return index, f"| {name} | {release_year} | No data found |"
 
-    title = result['title']
-    release_year = result['original_release_year']
+    title = result["title"]
+    release_year = result["original_release_year"]
     wiki_url = get_wiki_url(title, release_year)
     title_text = title
     if wiki_url is not None:
@@ -194,11 +190,15 @@ def get_movie_row(args):
     return index, f"| {title_text} | {release_year} | {streams_to_text(streams)} |"
 
 
-print(textwrap.dedent("""
+print(
+    textwrap.dedent(
+        """
     # Stream the National Film Registry
 
     This table shows streaming providers that show each of the movies from the Library of Congress' [National Film Registry](https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/).
-""").strip())
+"""
+    ).strip()
+)
 
 print("\n")
 print("| Name | Release Year | Stream URLs")
