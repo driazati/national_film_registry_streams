@@ -185,7 +185,11 @@ def get_movie_row(args):
     title_text = title
     if wiki_url is not None:
         title_text = f"[{title}]({wiki_url})"
-    streams = find_streams(result)
+    try:
+        streams = find_streams(result)
+    except Exception as e:
+        logging.info(f"Unable to find {name} {release_year}")
+        return index, f"| {name} | {release_year} | No data found |"
 
     return index, f"| {title_text} | {release_year} | {streams_to_text(streams)} |"
 
