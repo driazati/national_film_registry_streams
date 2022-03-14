@@ -348,7 +348,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | Hot Dogs for Gauguin | 1972 | 2009 | No data found |
 | Hours for Jerome: Parts 1 and 2 | 1980-82 | 2012 | No data found |
 | [The House I Live In](https://en.wikipedia.org/wiki/The_House_I_Live_In_(1945_film)) | 1945 | 2007 | Not available anywhere |
-| [The House in the Middle](https://en.wikipedia.org/wiki/The_House_in_the_Middle) | 1954 | 2001 | Not available anywhere |
+| [The House in the Middle](https://en.wikipedia.org/wiki/1954_United_States_House_of_Representatives_elections) | 1954 | 2001 | Not available anywhere |
 | [House of Usher](https://en.wikipedia.org/wiki/House_of_Usher_(film)) | 1960 | 2005 | [Kanopy](https://www.kanopy.com/product/fall-house-usher-1) <br/> [pluto](https://pluto.tv/on-demand/movies/the-fall-of-the-house-of-usher-1960-1960-1-1?utm_medium=deeplink&utm_source=justwatch) |
 | [House of Wax](https://en.wikipedia.org/wiki/House_of_Wax_(1953_film)) | 1953 | 2014 | Not available to stream |
 | [How Green Was My Valley](https://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(film)) | 1941 | 1990 | Not available to stream |
@@ -375,7 +375,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [The Thin Man](https://en.wikipedia.org/wiki/The_Thin_Man) | 1934 | 1997 | [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GX07gwwLjmbCttQEAAAII) |
 | [In the Heat of the Night](https://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(film)) | 1967 | 2002 | [hbonow](https://play.hbonow.com/feature/urn:hbo:feature:GYLjZkQhzMLW8wwEAAASd) <br/> [maxgo](https://play.maxgo.com/feature/urn:hbo:feature:GYLjZkQhzMLW8wwEAAASd) <br/> [DirecTV](https://www.directv.com/movies/In-the-Heat-of-the-Night-V2FTZGp0Y2VIWG9vWWIxQkI3ZjZ0QT09) <br/> [indieflix](https://watch.indieflix.com/movie/49-qu7fdzdlxvn9-in-the-heat-of-the-night) <br/> [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GYLjZkQhzMLW8wwEAAASd) <br/> [spectrum](https://ondemand.spectrum.net/movies/2466/in-the-heat-of-the-night/) |
 | [In the Land of the Head Hunters](https://en.wikipedia.org/wiki/In_the_Land_of_the_Head_Hunters) | 1914 | 1999 | [Kanopy](https://www.kanopy.com/product/land-head-hunters) |
-| [In the Street](https://en.wikipedia.org/wiki/1948_Summer_Olympics) | 1948 | 2006 | Not available anywhere |
+| [In the Street](https://en.wikipedia.org/wiki/1948) | 1948 | 2006 | Not available anywhere |
 | [Tin Toy](https://en.wikipedia.org/wiki/Tin_Toy) | 1988 | 2003 | [Disney Plus](https://disneyplus.bn5x.net/c/1206980/705874/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Ftin-toy%2F5R22xupX16it&subId3=justappsvod) |
 | [The Incredible Shrinking Man](https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man) | 1957 | 2009 | Not available to stream |
 | [The Informer](https://en.wikipedia.org/wiki/The_Informer_(1935_film)) | 1935 | 2018 | Not available to stream |
@@ -498,7 +498,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [Master Hands](https://en.wikipedia.org/wiki/Master_Hands) | 1936 | 1999 | Not available anywhere |
 | [Matrimony's Speed Limit](https://en.wikipedia.org/wiki/Matrimony%27s_Speed_Limit) | 1913 | 2003 | Not available anywhere |
 | [The Matrix](https://en.wikipedia.org/wiki/The_Matrix) | 1999 | 2012 | [freeform](https://www.freeform.com/movies-and-specials/the-matrix) <br/> [fubo](https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV000722830000%26o%3D0&irmp=1206980&irad=599309) <br/> [sling](https://watch.sling.com/browse/search?query=The%20Matrix) <br/> [DirecTV](https://www.directv.com/movies/The-Matrix-ZUF5bGQvemdYeVJ2L3lpNERBQ205QT09) <br/> [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GXdu2VgPdq5uAuwEAADak) <br/> [spectrum](https://ondemand.spectrum.net/movies/22804/the-matrix/) |
-| [Mauna Kea: Temple Under Siege](https://en.wikipedia.org/wiki/Mauna_Kea_Anaina_Hou) | 2006 | 2020 | Not available anywhere |
+| [Mauna Kea: Temple Under Siege](https://en.wikipedia.org/wiki/Hawaiian_sovereignty_movement) | 2006 | 2020 | Not available anywhere |
 | [McCabe & Mrs. Miller](https://en.wikipedia.org/wiki/McCabe_%26_Mrs._Miller) | 1971 | 2010 | Not available to stream |
 | [Mean Streets](https://en.wikipedia.org/wiki/Mean_Streets) | 1973 | 1997 | [realeyz](https://stream.realeyz.de/media/mean-streets/1_s74rr3q3) <br/> [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GYN49iwBf4YMqsQEAAAJI) |
 | [Medium Cool](https://en.wikipedia.org/wiki/Medium_Cool) | 1969 | 2003 | Not available anywhere |
@@ -632,7 +632,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | Preservation of the Sign Language | 1913 | 2010 | No data found |
 | President McKinley Inauguration Footage | 1901 | 2000 | No data found |
 | [Primary](https://en.wikipedia.org/wiki/1960_Democratic_Party_presidential_primaries) | 1960 | 1990 | [Criterion](https://www.criterionchannel.com/30-years-of-the-film-foundation/season:1/videos/primary) <br/> [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GXk3jxQzcBDC3wwEAAAhv) |
-| [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) | 1987 | 2016 | [hulu](https://www.hulu.com/watch/101b3fed-3125-4009-91e8-40ca97f1229c) <br/> [tubitv](https://tubitv.com/movies/650100?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [Disney Plus](https://disneyplus.bn5x.net/c/1206980/705874/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fthe-princess-bride%2F6hFucDYzyBdw&subId3=justappsvod) <br/> [amazon](https://watch.amazon.com/detail?gti=amzn1.dv.gti.8393acf5-33a4-46cd-9c2b-27e796b5f011) |
+| [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride) | 1987 | 2016 | [hulu](https://www.hulu.com/watch/101b3fed-3125-4009-91e8-40ca97f1229c) <br/> [tubitv](https://tubitv.com/movies/650100?utm_source=justwatch-feed&tracking=justwatch-feed) <br/> [Disney Plus](https://disneyplus.bn5x.net/c/1206980/705874/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Fthe-princess-bride%2F6hFucDYzyBdw&subId3=justappsvod) <br/> [amazon](https://watch.amazon.com/detail?gti=amzn1.dv.gti.8393acf5-33a4-46cd-9c2b-27e796b5f011) |
 | [Princess Nicotine; or, The Smoke Fairy](https://en.wikipedia.org/wiki/Princess_Nicotine;_or,_The_Smoke_Fairy) | 1909 | 2003 | Not available anywhere |
 | [The Prisoner of Zenda](https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda_(1937_film)) | 1937 | 1991 | Not available to stream |
 | [The Producers](https://en.wikipedia.org/wiki/The_Producers_(1967_film)) | 1967 | 1996 | Not available to stream |
@@ -716,7 +716,7 @@ This table shows streaming providers that show each of the movies from the Libra
 | [She Done Him Wrong](https://en.wikipedia.org/wiki/She_Done_Him_Wrong) | 1933 | 1996 | [flixfling](https://www.flixfling.com/justwatch/10328) |
 | [She's Gotta Have It](https://en.wikipedia.org/wiki/She%27s_Gotta_Have_It) | 1986 | 2019 | [Netflix](http://www.netflix.com/title/60034929) |
 | [Sherlock Jr.](https://en.wikipedia.org/wiki/Sherlock_Jr.) | 1924 | 1991 | [Kanopy](https://www.kanopy.com/product/sherlock-jr-0) <br/> [Hoopla](https://www.hoopladigital.com/title/11046761) <br/> [flixfling](https://www.flixfling.com/justwatch/28555) <br/> [indieflix](https://watch.indieflix.com/movie/49-ntfb9m5mmy1a-sherlock-jr) <br/> [classixapp](http://www.classixapp.com) <br/> [plex](https://watch.plex.tv/movie/sherlock-jr?autoplay=1&utm_content=61285430220fe9002c31d5c0&utm_medium=deeplink&utm_source=justWatch-catalog) |
-| [Sherman's March](https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea) | 1985 | 2000 | [Kanopy](https://www.kanopy.com/product/shermans-march) <br/> [ovid](https://www.ovid.tv/videos/shermans-march) |
+| [Sherman's March](https://en.wikipedia.org/wiki/Sherman%27s_March_(1986_film)) | 1985 | 2000 | [Kanopy](https://www.kanopy.com/product/shermans-march) <br/> [ovid](https://www.ovid.tv/videos/shermans-march) |
 | [The Shining](https://en.wikipedia.org/wiki/The_Shining_(film)) | 1980 | 2018 | [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GXmZ1WQgtCSLCHAEAABkh) |
 | [Shock Corridor](https://en.wikipedia.org/wiki/Shock_Corridor) | 1963 | 1996 | [Criterion](https://www.criterionchannel.com/shock-corridor/videos/shock-corridor) <br/> [flixfling](https://www.flixfling.com/justwatch/16549) <br/> [indieflix](https://watch.indieflix.com/movie/49-fxnmypuwqrzm-shock-corridor) <br/> [HBO Max](https://play.hbomax.com/feature/urn:hbo:feature:GXmlShw2m3CLCHAEAAB-d) |
 | [Shoes](https://en.wikipedia.org/wiki/Shoes_(1916_film)) | 1916 | 2014 | [Criterion](https://www.criterionchannel.com/women-make-film/season:1/videos/shoes) |
