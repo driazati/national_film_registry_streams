@@ -2,25 +2,25 @@ import concurrent.futures
 from pickledict import jsondict
 from justwatch import JustWatch
 import wikipedia
-from os import close
+import json
 import textwrap
-import sys
-import time
+import requests
 import argparse
 import logging
-import pprint
 import re
-import pickle
+import os
 import concurrent
+from pathlib import Path
 from urllib.parse import urlparse
-
+from bs4 import BeautifulSoup
+from typing import *
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--source-tsv-file")
 parser.add_argument("--country", default="US")
 args = parser.parse_args()
 
 jw = JustWatch(country=args.country)
+DEBUG = os.getenv("DEBUG", "") == "1"
 
 
 remaps = {
@@ -28,6 +28,7 @@ remaps = {
 }
 
 alldata = jsondict(save_on_every_write=False, file_name="data.json")
+urls = jsondict(save_on_every_write=False, file_name="wiki.json")
 
 FORMAT = "[%(asctime)s] %(levelname)s - %(message)s"
 logging.basicConfig(format=FORMAT, level=logging.INFO, datefmt="%Y-%m-%d %H:%M:%S")
@@ -38,7 +39,14 @@ def clean(s: str):
     Clean up string for comparing movie names
     """
     s = re.sub(r"\(.*\)", "", s)
-    s = re.sub(r"\W+", "", s).lower().replace("é", "e").replace("the", "")
+    s = (
+        re.sub(r"\W+", "", s)
+        .lower()
+        .replace("é", "e")
+        .replace("the", "")
+        .replace("and", "")
+        .replace("&", "")
+    )
     return s
 
 
@@ -63,6 +71,20 @@ def matches(name, release_year, item):
     return False
 
 
+def jw_lookup(name):
+    cache_dir = Path(".jw")
+    cache_dir.mkdir(exist_ok=True)
+    cache_path = cache_dir / clean(name)
+    if cache_path.exists():
+        with open(cache_path) as f:
+            return json.load(f)
+    else:
+        r = jw.search_for_item(name)
+        with open(cache_path, "w") as f:
+            json.dump(r, f)
+        return r
+
+
 def get_domain(url):
     """
     Get the domain name from a full URL
@@ -76,19 +98,22 @@ def get_movie(name, release_year):
     Locate a movie in the justwatch API
     """
     try:
-        key = f"{name} {release_year}"
-        if key not in alldata:
-            logging.info(f"Fetching {name}")
-            alldata[key] = jw.search_for_item(name)
-        else:
-            logging.info(f"Using cached {name}")
-        results = alldata[key]
+        # key = f"{name} {release_year}"
+        # if key not in alldata:
+        #     logging.info(f"Fetching {name}")
+        #     alldata[key] = jw.search_for_item(name)
+        # else:
+        #     logging.info(f"Using cached {name}")
+        results = jw_lookup(name)
 
+        # with open("r.json", "w") as f:
+        #     f.write(json.dumps(results, indent=2))
         if release_year is not None and release_year.isnumeric():
             for item in results["items"]:
                 if matches(name, release_year, item):
                     return item
     except Exception as e:
+        raise e
         pass
 
     return None
@@ -101,16 +126,34 @@ def find_streams(result):
     if "offers" not in result:
         return None
 
+    PLATFORM_NAMES = {
+        "vdu": "Vudu",
+        "amp": "Amazon Prime Video",
+        "drv": "DirecTV",
+        "hop": "Hoopla",
+        "knp": "Kanopy",
+        "hbm": "HBO Max",
+        "crc": "Criterion",
+        "dnp": "Disney Plus",
+        "nfx": "Netflix",
+    }
+
     streams = []
     for stream in result["offers"]:
-        if stream.get("monetization_type", False) == "flatrate":
+        if stream.get("monetization_type", False) in {"flatrate", "ads", "free"}:
             url = stream["urls"]["standard_web"]
             type = stream["presentation_type"].upper()
-            streams.append((get_domain(url), type, url))
-        elif stream.get("monetization_type", False) == "ads":
-            url = stream["urls"]["standard_web"]
-            type = stream["presentation_type"].upper()
-            streams.append((get_domain(url), type, url))
+            if stream["package_short_name"] in {"afa"}:
+                continue
+
+            if stream["package_short_name"] in PLATFORM_NAMES:
+                stream_platform_name = PLATFORM_NAMES[stream["package_short_name"]]
+            else:
+                logging.info(
+                    f"Unknown package short name: {stream['package_short_name']}: {url}"
+                )
+                stream_platform_name = get_domain(url)
+            streams.append((stream_platform_name, type, url))
     return streams
 
 
@@ -146,20 +189,17 @@ def streams_to_text(streams) -> str:
     return " <br/> ".join(streams_to_print)
 
 
-urls = jsondict(save_on_every_write=False, file_name="wiki.json")
-
-
 def get_wiki_url(title, year):
     key = f"{title} {year}"
     if key in urls:
         return urls[key]
 
-    wiki_url = None
+    wiki_url = "https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/"
     try:
-        wiki_url = wikipedia.page(f"{title} {release_year}").url
+        wiki_url = wikipedia.page(f"{title} {year}").url
     except wikipedia.exceptions.WikipediaException:
         try:
-            wiki_url = wikipedia.page(f"{title} film {release_year}").url
+            wiki_url = wikipedia.page(f"{title} film {year}").url
         except wikipedia.exceptions.WikipediaException:
             pass
 
@@ -172,64 +212,85 @@ def get_movie_row(args):
     Look up a movie by name + release_year, find if it's available to stream anywhere,
     and then print it as a markdown table row
     """
-    index, name, release_year = args
+    name, release_year, year_added = args
     result = get_movie(name, release_year)
 
     if result is None:
-        logging.info(f"Unable to find {name} {release_year}")
-        return index, f"| {name} | {release_year} | No data found |"
+        logging.info(f"No result for {name} {release_year}")
+        return [name, None, release_year, year_added, "No data found"]
 
     title = result["title"]
     release_year = result["original_release_year"]
-    wiki_url = get_wiki_url(title, release_year)
-    title_text = title
-    if wiki_url is not None:
-        title_text = f"[{title}]({wiki_url})"
+    url = get_wiki_url(title, release_year)
+
     try:
         streams = find_streams(result)
     except Exception as e:
-        logging.info(f"Unable to find {name} {release_year}")
-        return index, f"| {name} | {release_year} | No data found |"
+        logging.info(f"Unable to find {name} {release_year}: {e}")
+        return [title, url, release_year, year_added, "No data found"]
 
-    return index, f"| {title_text} | {release_year} | {streams_to_text(streams)} |"
+    return [title, url, release_year, year_added, streams_to_text(streams)]
 
 
-print(
-    textwrap.dedent(
-        """
-    # Stream the National Film Registry
-
-    This table shows streaming providers that show each of the movies from the Library of Congress' [National Film Registry](https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/).
-"""
-    ).strip()
-)
-
-print("\n")
-print("| Name | Release Year | Stream URLs")
-print("| ---- | ------------ | -----------")
-
-if args.source_tsv_file is None or args.source_tsv_file == "-":
-    f = sys.stdin
-else:
-    f = open(args.source_tsv_file, "r")
-
-args = []
-
-for i, line in enumerate(f):
-    release_year = None
-    line = line.strip()
-    line = line.split("\t")
-    if len(line) > 1:
-        name = line[0]
-        release_year = line[1]
+def get_registry() -> List[Tuple[str, str, str]]:
+    """
+    Fetch the Library of Congress film registry
+    """
+    url = "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/"
+    if DEBUG:
+        logging.info("Using cached registry")
+        with open("out.html") as f:
+            html = f.read()
     else:
-        name = line[0]
-    if line != "":
-        args.append([i, name, release_year])
+        logging.info("Fetching registry")
+        html = requests.get(url).content.decode()
 
-with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-    processes = pool.map(get_movie_row, args)
-    results = [x for x in processes]
-    results = sorted(results, key=lambda x: x[0])
-    results = [r[1] for r in results]
-    print("\n".join(results))
+    # Fix some random badness in the HTML
+    html = html.replace("					</td>", "					</th>")
+    soup = BeautifulSoup(html, features="html.parser")
+
+    registry = []
+    body = soup.select("table.sortable-table > tbody")[0]
+    for tr in body.find_all("tr"):
+        title = tr.contents[1].text.strip()
+        year_released = tr.contents[3].text.strip()
+        year_added = tr.contents[5].text.strip()
+        registry.append((title, year_released, year_added))
+
+    return registry
+
+
+if __name__ == "__main__":
+    args = get_registry()
+    # args = args[-5:]
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
+        processes = list(pool.map(get_movie_row, args))
+
+    results = list(sorted(processes, key=lambda x: x[0].lstrip("The ").lower()))
+
+    to_print = []
+    for name, url, release_year, year_added, text in results:
+        if url is None:
+            linked = name
+        else:
+            linked = f"[{name}]({url})"
+        to_print.append(
+            "| " + " | ".join([linked, str(release_year), str(year_added), text]) + " |"
+        )
+
+    print(
+        textwrap.dedent(
+            """
+        # Stream the National Film Registry
+
+        This table shows streaming providers that show each of the movies from the Library of Congress' [National Film Registry](https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/).
+    """
+        ).strip()
+    )
+
+    print("\n")
+    print("| Name | Release Year | Year Added | Stream URLs |")
+    print("| ---- | ------------ | ---------- | ----------- |")
+
+    print("\n".join(to_print))

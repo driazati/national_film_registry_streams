@@ -2,3 +2,5 @@
 *.json
 *.json
 *.pkl
+.jw
+out.html

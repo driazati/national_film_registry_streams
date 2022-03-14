@@ -1,3 +1,5 @@
 JustWatch==0.5.1
 wikipedia==1.4.0
-pickledict
+pickledict==1.0.2
+requests==2.25.1
+beautifulsoup4==4.6.3

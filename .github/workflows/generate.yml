@@ -6,6 +6,8 @@ on:
   schedule:
     # Every monday
     - cron: "0 0 * * 1"
+  workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
